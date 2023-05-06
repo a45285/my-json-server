@@ -1,6 +1,7 @@
 {
 	"news": [
 	{
+		"id": 0,
 		"author": "Manuel",
 		"release": "2012-04-23T18:25:43.511Z",
 		"title": "Na TAP passa-se fome",
@@ -8,7 +9,9 @@
 		"comments": "Ó Costa... vai pó *******!",
 		"likes": 9999999999999999999,
 		"country": "Portugal"
-	}, {
+	}, 
+	{
+		"id": 1,
 		"author": "Teste",
 		"release": "2012-04-23T18:25:43.511Z",
 		"title": "Teste",
@@ -16,5 +19,6 @@
 		"comments": "",
 		"likes": 0,
 		"country": "Portugal"
-	}]
+	}
+	]
 }
