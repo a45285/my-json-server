@@ -1,0 +1,20 @@
+{
+	"news": [
+	{
+		"author": "Manuel",
+		"release": "2012-04-23T18:25:43.511Z",
+		"title": "Na TAP passa-se fome",
+		"description": "3.2 mil milhões de euros tirados ao povo não são suficientes para a TAP começar a render né Costa",
+		"comments": "Ó Costa... vai pó *******!",
+		"likes": 9999999999999999999,
+		"country": "Portugal"
+	}, {
+		"author": "Teste",
+		"release": "2012-04-23T18:25:43.511Z",
+		"title": "Teste",
+		"description": "Teste, 1... 2",
+		"comments": "",
+		"likes": 0,
+		"country": "Portugal"
+	}]
+}
